@@ -1,0 +1,5 @@
+Dog
+Hamburger
+Brown
+Chair
+Shoe
