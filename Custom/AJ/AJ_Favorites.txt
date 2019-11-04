@@ -1,3 +1,3 @@
 Animal: Wolf
 Food: Pizza
-Color: Lemonade
+Color: Blue
