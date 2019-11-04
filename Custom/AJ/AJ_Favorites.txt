@@ -1,3 +1,3 @@
-Animal: banana
-Food: orange
-Color: other orange
+Animal: Wolf
+Food: Pizza
+Color: Blue
