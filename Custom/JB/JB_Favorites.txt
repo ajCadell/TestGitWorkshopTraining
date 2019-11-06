@@ -1,0 +1,3 @@
+Animal: Corgies
+Food: A hot dog is a sandwich
+Color: Brown
