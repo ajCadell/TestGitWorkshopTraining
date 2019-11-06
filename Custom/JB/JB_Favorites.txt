@@ -1,3 +1,4 @@
 Animal: Corgies
 Food: A hot dog is a sandwich
 Color: Brown
+Charlie Dalton agrees with line 2 above ^
