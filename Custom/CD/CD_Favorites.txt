@@ -1,3 +1,5 @@
-Wings
-Purple
-Cat
+Food: Wings
+Color: Purple
+Animal: Cat
+Band: Opeth
+Video Game: Hollow Knight
