@@ -1,5 +1,3 @@
 Animal: Pine Marten
 Food: Eggs
 Color: Red
-
-I like Cats
