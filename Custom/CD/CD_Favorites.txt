@@ -2,4 +2,4 @@ Wings
 Purple
 Cat
 
-Animal: Corgies (I like this)
+Animal: Corgies (I like this, changed in EX-2)
