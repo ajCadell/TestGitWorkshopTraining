@@ -2,4 +2,4 @@ Dog
 Hamburger
 Brown
 Chair
-Shoe
+Shoes
