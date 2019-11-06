@@ -1,3 +1,5 @@
 Animal: Pine Marten
 Food: Eggs
 Color: Red
+Game: Magic: the Gathering
+Commander: Daretti
