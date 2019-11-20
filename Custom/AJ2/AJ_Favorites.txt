@@ -1,3 +1,6 @@
 Wolf
 Pizza
 Blue
+-like
+dog
+pasta
