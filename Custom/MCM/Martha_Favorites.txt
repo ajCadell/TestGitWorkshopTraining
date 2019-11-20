@@ -1,3 +1,5 @@
 Dog
+Cats
+Pasta
 Veggies
 Purple
